@@ -1,0 +1,6 @@
+Building blocks for scanning Twitter
+Dirty code, pulls up past Tweets and constructs a wordcloud. Sample Hillary wordcloud attached.
+
+Things to note:
+Twitter provides us with Real time as well as archived data. Current code is using Archive. Possibly upgrade to realtime ? 
+Each tweet object gives lots of Attributes, that can help analyse/filter the data. Example - Device used( Android,Blackberry,Iphone) User details, Links, etc.
