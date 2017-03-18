@@ -1,5 +1,5 @@
 Building blocks for scanning Twitter
-Dirty code, pulls up past Tweets and constructs a wordcloud. Sample Hillary wordcloud attached.
+Dirty code, pulls up past Tweets and constructs a wordcloud. All you need is to setup a Bot account, and write R connector.Sample wordclouds attached
 
 Things to note:
 Twitter provides us with Real time as well as archived data. Current code is using Archive. Possibly upgrade to realtime ? 
