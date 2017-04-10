@@ -1,0 +1,2 @@
+Sample Scrapy project that can scrape Seeking Alpha Articles, comments and evaluate Sentiment.
+Classifier uses Naive classifier exposed by the service - its for sampling. Sample outputs are all attached.
