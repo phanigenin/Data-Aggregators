@@ -1,4 +1,4 @@
 Sentiment Analysis requires Text data to be pulled from web sources.
 A sample application output attached, that is able to scrape firm Earnings releases using python packages.
 
-Include the Earnings sentiment in analysis alongside Firms 10K reports, for short term Volatility, Returns projections.
+Include the Earnings sentiment in analysis alongside Firms 10K reports, for short term Volatility, Returns forecasts.
