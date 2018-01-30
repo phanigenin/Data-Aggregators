@@ -8,3 +8,4 @@ The goal of Spiegel is to extract Financial Data ( for free ! ) from various sou
 This ensures we have data at the level we want. Currently programmed this demo version to have 5 threads and pulling data for 40 instruments
 
 Hit the exe, and see the console pop up. Reach out to phani.mfe@gmail.com in case of any issues/queries.
+Time against the Instrument, is in GMT. 
