@@ -1,0 +1,10 @@
+Spiegel is my Mirror to the markets
+This application is like a C++/C# version of the Py-DataScrapeBasics discussed in other project
+
+This application is far superior compared to the Python version in variety of aspects ( mainly Performance ! ).
+This is multithreaded, scalable and the one i demo here is a command line version of the application.
+
+The goal of Spiegel is to extract Financial Data ( for free ! ) from various sources, across asset classes, and at a time interval of my choice.
+This ensures we have data at the level we want. Currently programmed this demo version to have 5 threads and pulling data for 40 instruments
+
+Hit the exe, and see the console pop up. Reach out to phani.mfe@gmail.com in case of any issues/queries.
